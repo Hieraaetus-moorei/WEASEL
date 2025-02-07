@@ -161,4 +161,4 @@ pip install onnxruntime
 
 * 使用說明：  
     * 圖片爬取：按照 `crawler.ipynb` 中的說明，即可用 Python Selenium 爬蟲技術從網路上收集坦克圖片  
-    * 模型訓練：依 `model_training.ipynb` 中的指示，便可用爬到的資料或自訂資料集訓練 YOLO 模型  
+    * 模型訓練：依 `model_training.ipynb` 中的指示，便可用爬到的資料或自訂資料集訓練 YOLO 模型
