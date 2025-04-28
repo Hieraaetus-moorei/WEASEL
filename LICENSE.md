@@ -10,10 +10,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-YOLOv8 is protected by AGPL license, so this project is also AGPL-licensed  
-[Ultralytics YOLO repo](https://github.com/ultralytics/ultralytics)
+[YOLOv8](https://github.com/ultralytics/ultralytics) is protected by AGPL license, so this project is also AGPL-licensed
 
 ---
 
-Dunkey car used in this project is also MIT licensed  
-[Dunkey car repo](https://github.com/autorope)
+[Dunkey car](https://github.com/autorope) used in this project is also MIT licensed  
