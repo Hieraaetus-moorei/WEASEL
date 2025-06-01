@@ -1,3 +1,5 @@
+### AGPL license
+
                       Copyright (c) 2025 Codeglacier
 
                     GNU AFFERO GENERAL PUBLIC LICENSE
@@ -667,6 +669,8 @@ For more information on this, and how to apply and follow the GNU AGPL, see
 [YOLOv8](https://github.com/ultralytics/ultralytics) is protected by AGPL license, same as this project
 
 ---
+
+MIT license
 
 [Dunkey car](https://github.com/autorope) used in this project is MIT licensed  
 
